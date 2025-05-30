@@ -10,4 +10,3 @@ Link
 ## Short Paragraph
 
 ## PWA Image
-![Image](./assets/pwa.png)
